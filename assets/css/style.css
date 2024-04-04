@@ -1,4 +1,4 @@
-/* Default Styles Rest
+ /* Default Styles Rest
 ----------------------------
 */
 
@@ -330,6 +330,7 @@ header .column_4 {
     font-weight: 400;
     font-family: "lato";
     color: #333;
+    text-align: justify;
 }
 .eductin_block {
     background: #d6f3ff;
@@ -367,6 +368,7 @@ header .column_4 {
     font-weight: 400;
     font-family: "lato";
     color: #323232;
+    
 }
 
 /* Footer STyles
